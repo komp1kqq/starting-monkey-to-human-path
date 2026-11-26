@@ -1,0 +1,3 @@
+Class Application {
+Public static void main(Starting[] args) {
+System.out.println("I'm, and I'm not a monkey"); }}
